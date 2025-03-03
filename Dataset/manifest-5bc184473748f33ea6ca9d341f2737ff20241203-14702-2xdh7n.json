@@ -1,0 +1,54 @@
+{
+  "description": "This is a system generated manifest of files expected to be present in this zip. It can be safely deleted.",
+  "metadata": {
+    "generated_at": "2024-12-03T15:23:00+00:00",
+    "trigger": {
+      "file_hashid": "unknown",
+      "action": "unknown"
+    }
+  },
+  "manifest": [
+    {
+      "filename": "SampleSubmission.csv",
+      "filesize": 446084,
+      "description": "This file is an example of what your submission file should look like. ",
+      "created_at": "2024-11-29 08:33:02 UTC",
+      "updated_at": "2024-11-29 08:33:09 UTC"
+    },
+    {
+      "filename": "Test.csv",
+      "filesize": 2379732,
+      "description": "This is the dataset on which you need to apply your trained model for prediction.",
+      "created_at": "2024-11-29 08:33:36 UTC",
+      "updated_at": "2024-11-29 08:58:28 UTC"
+    },
+    {
+      "filename": "Train.csv",
+      "filesize": 8785708,
+      "description": "This is the dataset on which to train your machine learning model. You are welcome to enrich the dataset with economic data sourced from the Federal Reserve Bank on the countries of interest.",
+      "created_at": "2024-11-29 08:34:04 UTC",
+      "updated_at": "2024-11-29 08:34:11 UTC"
+    },
+    {
+      "filename": "economic_indicators.csv",
+      "filesize": 7930,
+      "description": "External data pulled from from the Federal Reserve Bank on the countries of interest.",
+      "created_at": "2024-11-29 10:29:23 UTC",
+      "updated_at": "2024-12-03 15:22:10 UTC"
+    },
+    {
+      "filename": "Starter_Notebook_.ipynb",
+      "filesize": 427859,
+      "description": "A starter notebook showing how to load data and run a basic ML model.",
+      "created_at": "2024-11-29 11:09:18 UTC",
+      "updated_at": "2024-12-03 15:23:00 UTC"
+    },
+    {
+      "filename": "VariableDefinitions.txt",
+      "filesize": 1539,
+      "description": "A description of each variable contained in Train/Test.csv",
+      "created_at": "2024-12-03 15:19:43 UTC",
+      "updated_at": "2024-12-03 15:19:56 UTC"
+    }
+  ]
+}
